@@ -29,7 +29,7 @@ sections:
         button: Button text
         url: /faq/
     - resources:
-        title: Media
+        title: News
         subtitle: Learn more
         button: View More
 ---

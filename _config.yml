@@ -7,7 +7,7 @@ collections:
     output: true
   left-nav-two:
     output: true
-resources_name: resource-room
+resources_name: news
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
@@ -33,4 +33,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-

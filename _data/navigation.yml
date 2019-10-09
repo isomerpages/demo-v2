@@ -7,15 +7,15 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About Us
-    url: /about-us/
-  - title: Faq
-    url: /faq/
   - title: Left Nav One
     collection: left-nav-one
   - title: Left Nav Two
     collection: left-nav-two
-  - title: Resource Room
+  - title: About Us
+    url: /about-us/
+  - title: News
     resource_room: true
+  - title: Faq
+    url: /faq/
+  - title: Contact Us
+    url: /contact-us/
