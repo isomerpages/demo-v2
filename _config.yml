@@ -9,6 +9,9 @@ collections:
   newtest:
     permalink: '/:collection/:path/:title'
     output: true
+  testing:
+    permalink: '/:collection/:path/:title'
+    output: true
 resources_name: resource-room
 permalink: none
 baseurl: ''
