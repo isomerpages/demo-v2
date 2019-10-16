@@ -6,9 +6,6 @@ collections:
     output: true
   left-nav-two:
     output: true
-  newtest:
-    permalink: '/:collection/:path/:title'
-    output: true
   testing:
     permalink: '/:collection/:path/:title'
     output: true
