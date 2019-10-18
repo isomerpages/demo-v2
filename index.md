@@ -22,14 +22,14 @@ sections:
             - title: Page A
               description: Page A is important too
               url: /privacy/
+    - resources:
+        title: Media
+        subtitle: Learn more
+        button: View More
     - infobar:
         title: Infobar title
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
 ---
