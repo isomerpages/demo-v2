@@ -12,6 +12,7 @@ collections:
   test-folder:
     permalink: '/:collection/:path/:title'
     output: true
+google_analytics: 
 resources_name: resource-room
 permalink: none
 baseurl: ''
