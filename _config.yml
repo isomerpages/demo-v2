@@ -6,7 +6,7 @@ collections:
     output: true
   left-nav-two:
     output: true
-  test-folder:
+  left-nav-three:
     permalink: '/:collection/:path/:title'
     output: true
 google_analytics: null
