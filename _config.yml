@@ -12,8 +12,8 @@ collections:
   test-folder:
     permalink: '/:collection/:path/:title'
     output: true
-google_analytics: 
-resources_name: resource-room
+google_analytics: null
+resources_name: resources-room
 permalink: none
 baseurl: ''
 exclude:
