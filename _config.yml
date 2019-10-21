@@ -13,7 +13,7 @@ collections:
     permalink: '/:collection/:path/:title'
     output: true
 google_analytics: null
-resources_name: resources-room
+resources_name: resource-room
 permalink: none
 baseurl: ''
 exclude:
