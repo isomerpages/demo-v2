@@ -22,6 +22,9 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+        - title: new stuff
+          description: stuff
+          url: /stuff
   - resources:
       title: Media
       subtitle: Learn more about that
