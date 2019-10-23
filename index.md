@@ -25,6 +25,11 @@ sections:
         - title: new stuff
           description: stuff
           url: /stuff
+        - &ref_0
+          title: why is this happening
+          description: once aga
+          url: ''
+        - *ref_0
   - resources:
       title: Media
       subtitle: Learn more about that
