@@ -22,12 +22,6 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-        - &ref_0
-          title: test
-          description: test
-          url: test
-        - *ref_0
-        - *ref_0
   - resources:
       title: Media
       subtitle: Learn more about that
