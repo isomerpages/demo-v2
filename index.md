@@ -23,13 +23,16 @@ sections:
           description: Page A is important too
           url: /privacy/
         - title: is it
-          description: ''
+          description: mm
           url: ''
         - &ref_0
           title: testing
+          description: mj
+          url: mm
+        - *ref_0
+        - title: tt
           description: ''
           url: ''
-        - *ref_0
   - resources:
       title: Media
       subtitle: Learn more about that
