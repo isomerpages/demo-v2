@@ -25,11 +25,6 @@ sections:
         - title: new stuff
           description: stuff
           url: /stuff
-        - &ref_0
-          title: TITLE test what is going on
-          description: DESCRIPTION
-          url: URL
-        - *ref_0
   - resources:
       title: Media
       subtitle: Learn more about that
