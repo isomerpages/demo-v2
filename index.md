@@ -22,6 +22,11 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+        - &ref_0
+          title: test this isn't going well
+          description: ''
+          url: ''
+        - *ref_0
   - resources:
       title: Media
       subtitle: Learn more about that
