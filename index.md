@@ -24,7 +24,7 @@ sections:
           url: /privacy/
   - resources:
       title: Media
-      subtitle: Learn more about it
+      subtitle: Learn more about that
       button: View More
   - infobar:
       title: Infobar title
