@@ -22,18 +22,6 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-        - title: try why
-          description: stuff
-          url: stuff
-        - title: try again
-          description: stuff
-          url: stuff
-        - title: try why
-          description: stuff
-          url: stuff
-        - title: try why
-          description: stuff
-          url: stuff
   - resources:
       title: Media
       subtitle: Learn more about that
