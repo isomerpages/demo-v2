@@ -22,8 +22,11 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+        - title: is it
+          description: ''
+          url: ''
         - &ref_0
-          title: test this isn't going well
+          title: testing
           description: ''
           url: ''
         - *ref_0
