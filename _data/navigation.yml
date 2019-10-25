@@ -17,5 +17,7 @@ links:
     collection: left-nav-one
   - title: Left Nav Two
     collection: left-nav-two
+  - title: Left Nav Three
+    collection: left-nav-three 
   - title: Resource Room
     resource_room: true
