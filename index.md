@@ -33,5 +33,4 @@ sections:
       button: Button text
       url: /faq/
 subtitle: testing
-
 ---
