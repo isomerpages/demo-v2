@@ -11,3 +11,6 @@ Here's a new script:
 
 How about this:
 <a href="#" onclick="alert('This will be allowed')">test</a>
+
+And this?
+<img src=/ onerror="alert('oops')"/>
