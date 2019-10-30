@@ -6,4 +6,4 @@ New content test test
 
 haha nice tryfafsaf
 
-<script>alert('Hi'))</script>
+<script>alert('Hi')</script>
