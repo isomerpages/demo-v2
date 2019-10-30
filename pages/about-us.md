@@ -8,8 +8,6 @@ haha nice tryfafsaf
 
 Here's a new script:
 
-![hello](javascript:alert(0))
-
-![XSS...]("onerror="alert('XSS'))
-
-{{ content }}
+{% "vegetarian" == "vegetarian" %}
+    <script>alert('Hello')</script>
+{% endif %}
