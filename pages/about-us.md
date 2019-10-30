@@ -7,7 +7,4 @@ New content test test
 haha nice tryfafsaf
 
 Here's a new script:
-
-{% "vegetarian" == "vegetarian" %}
-    <script>alert('Hello')</script>
-{% endif %}
+asdasdasda
