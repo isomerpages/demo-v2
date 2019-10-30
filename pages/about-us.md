@@ -14,3 +14,4 @@ How about this:
 
 And this?
 <img src=/ onerror="alert('oops')"/>
+()[javascript:alert(0)]
