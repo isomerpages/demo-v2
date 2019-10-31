@@ -8,3 +8,7 @@ haha nice tryfafsaf
 
 Here's a new script:
 asdasdasda
+
+{% if "a" == "a" %}
+Hello
+{% endif %}
