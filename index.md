@@ -32,5 +32,11 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infobar:
+      title: TITLE
+      subtitle: SUBTITLE
+      description: DESCRIPTION
+      button: BUTTON
+      url: URL
 subtitle: testing
 ---
