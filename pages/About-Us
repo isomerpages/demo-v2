@@ -2,8 +2,6 @@
 title: About Us
 permalink: /about-us/
 ---
-
-
 New content test test
 
 haha nice tryfafsaf
@@ -14,3 +12,5 @@ asdasdasda
 {% if "a" == "a" %}
 Hello
 {% endif %}
+
+ian is a dick
