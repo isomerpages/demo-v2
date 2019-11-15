@@ -46,4 +46,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-resources_name: resources
+resources_name: Resource Room Test
