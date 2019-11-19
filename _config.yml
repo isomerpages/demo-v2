@@ -9,9 +9,6 @@ collections:
   left-nav-three:
     permalink: '/:collection/:path/:title'
     output: true
-  left-nav-four:
-    permalink: '/:collection/:path/:title'
-    output: true
 google_analytics: null
 permalink: none
 baseurl: ''
