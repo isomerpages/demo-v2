@@ -1,0 +1,4 @@
+---
+title: abcs
+permalink: /permalink/
+---
