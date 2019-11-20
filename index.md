@@ -22,10 +22,6 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - resources:
-      title: Media
-      subtitle: Learn more about that
-      button: View More
   - infobar:
       title: Infobar title
       subtitle: Subtitle
