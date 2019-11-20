@@ -22,11 +22,5 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: TITLE
-      subtitle: SUBTITLE
-      description: DESCRIPTION
-      button: BUTTON
-      url: URL
 subtitle: testing
 ---
