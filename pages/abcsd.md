@@ -1,5 +1,0 @@
----
-title: abcsd
-permalink: /permalink/
----
-
