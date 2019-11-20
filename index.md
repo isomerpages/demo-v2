@@ -22,5 +22,15 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+  - infobar:
+      title: Title
+      subtitle: new subtitle
+      description: stuff
+      button: ago
+      url: /test/
+  - resources:
+      title: Resources
+      subtitle: My resource
+      button: test
 subtitle: testing
 ---
