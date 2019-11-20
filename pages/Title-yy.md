@@ -1,4 +1,5 @@
 ---
 title: Title yy
-permalink: /permalink/
+permalink: /permalink/abc/
 ---
+
