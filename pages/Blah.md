@@ -1,0 +1,6 @@
+---
+title: Blah
+permalink: /permalink/
+---
+
+
