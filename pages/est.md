@@ -1,4 +1,0 @@
----
-title: est**
-permalink: /permalink/
----
