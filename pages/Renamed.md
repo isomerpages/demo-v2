@@ -1,7 +1,0 @@
----
-title: Renamed
-permalink: /permalink/
----
-
-
-
