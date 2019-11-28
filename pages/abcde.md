@@ -1,4 +1,0 @@
----
-title: abcde
-permalink: /permalink/
----
