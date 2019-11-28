@@ -1,0 +1,4 @@
+---
+title: kwajiehao
+permalink: /permalink/
+---
