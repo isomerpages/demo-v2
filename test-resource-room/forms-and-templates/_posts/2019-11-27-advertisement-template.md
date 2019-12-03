@@ -3,6 +3,7 @@ layout: post
 title:  "Advertisement Template"
 permalink: "/resources/forms-and-template/Advertisement-Template"
 category: Resources
+date: 2019-11-27
 file: "files/resources/forms-and-templates/advertisement-template.doc"
 ---
 
