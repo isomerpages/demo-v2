@@ -32,5 +32,13 @@ sections:
       title: Resources
       subtitle: My resource
       button: test
+  - infopic:
+      title: Testing
+      subtitle: Test
+      description: Blah
+      button: New stuff
+      url: /test/
+      imageUrl: /images/hero-banner.png
+      imageAlt: test
 subtitle: testing
 ---
