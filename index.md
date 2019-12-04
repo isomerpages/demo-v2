@@ -48,5 +48,13 @@ sections:
       url: /test/
       imageUrl: /images/hero-banner.png
       imageAlt: hm
+  - infopic:
+      title: test
+      subtitle: ''
+      description: ''
+      button: test
+      url: /test/
+      imageUrl: /images/hero-banner.png
+      imageAlt: test
 subtitle: testing
 ---
