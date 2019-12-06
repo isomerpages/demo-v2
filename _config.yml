@@ -1,6 +1,45 @@
-title: Title
-url: ''
+title: Titlea
 favicon: /images/favicon-isomer.ico
+resources_name: test-resource-room
+colors:
+  primary-color: '#6031b6'
+  secondary-color: '#4372d6'
+  media-colors:
+    - title: media-color-one
+      color: '#49759a'
+    - title: media-color-two
+      color: '#744d9f'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'
+errors:
+  title: ''
+  favicon: ''
+  resources_name: ''
+  colors:
+    primary-color: ''
+    secondary-color: ''
+    media-colors:
+      - title: ''
+        color: ''
+      - title: ''
+        color: ''
+      - title: ''
+        color: ''
+      - title: ''
+        color: ''
+      - title: ''
+        color: ''
+  socialMediaContent:
+    facebook: ''
+    linkedin: ''
+    twitter: ''
+    youtube: ''
+    instagram: ''
+url: ''
 collections:
   left-nav-one:
     output: true
@@ -43,18 +82,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-resources_name: test-resource-room
-colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
-  media-colors:
-    - title: media-color-one
-      color: '#49759a'
-    - title: media-color-two
-      color: '#744d9f'
-    - title: media-color-three
-      color: '#00838f'
-    - title: media-color-four
-      color: '#00838f'
-    - title: media-color-five
-      color: '#00838f'
+facebook: d
+linkedin: d
+secondary-color: '#4372d6m'
