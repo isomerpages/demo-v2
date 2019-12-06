@@ -3,7 +3,7 @@ favicon: /images/favicon-isomer.ico
 resources_name: test-resource-room
 colors:
   primary-color: '#6031b6aa'
-  secondary-color: '#4372d6aa'
+  secondary-color: '#4372d6ab'
   media-colors:
     - title: media-color-one
       color: '#49759a'
