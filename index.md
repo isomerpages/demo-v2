@@ -33,12 +33,12 @@ sections:
       subtitle: My resource
       button: test
   - infopic:
-      title: Testing
-      subtitle: Test
-      description: Blah
-      button: New stuff
+      title: Testingaaa
+      subtitle: Testfff
+      description: Blahggg
+      button: New stuffhh
       url: /test/
-      imageUrl: /images/hero-banner.png
+      imageUrl: /images/test-screenshot.png
       imageAlt: test
   - infopic:
       title: Much better
