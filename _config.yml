@@ -15,30 +15,6 @@ colors:
       color: '#103d41'
     - title: media-color-five
       color: '#00838f'
-errors:
-  title: ''
-  favicon: ''
-  resources_name: ''
-  colors:
-    primary-color: ''
-    secondary-color: ''
-    media-colors:
-      - title: ''
-        color: ''
-      - title: ''
-        color: ''
-      - title: ''
-        color: ''
-      - title: ''
-        color: ''
-      - title: ''
-        color: ''
-  socialMediaContent:
-    facebook: ''
-    linkedin: The URL you have entered is not a valid Linkedin URL.
-    twitter: The URL you have entered is not a valid Twitter URL.
-    youtube: The URL you have entered is not a valid Youtube URL.
-    instagram: ''
 url: ''
 collections:
   left-nav-one:
