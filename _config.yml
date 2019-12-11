@@ -35,7 +35,7 @@ errors:
         color: ''
   socialMediaContent:
     facebook: ''
-    linkedin: ''
+    linkedin: The URL you have entered is not a valid Linkedin URL.
     twitter: ''
     youtube: ''
     instagram: ''
