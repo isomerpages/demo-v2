@@ -28,7 +28,8 @@ locations:
         time: 8.30am - 5.30pm
         description: Closed on Weekends and Public Holidays
   - title: BirdsNest @ Isomer Cooperation
-    address: 1 Fusionopolis View <br>#08-01 Sandcrawler<br>Singapore 138577
+    address: 
+      - 1 Fusionopolis View <br>#08-01 Sandcrawler<br>Singapore 138577
 contacts:
   - title: General Enquiries & Feedback
     content:
