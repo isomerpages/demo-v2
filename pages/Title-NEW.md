@@ -2,6 +2,6 @@
 title: Title NEW
 permalink: /permalink/new/
 ---
-## New Post!
+![](/images%2Fa.jpg)## New Post!
 
-What's up!
+What's up!![](/images%2Fcrying%20emoji%20renamed.png)
