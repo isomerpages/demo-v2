@@ -2,7 +2,7 @@
 title: FAQ
 permalink: /faq/
 ---
-![](/images%2Fa.jpg)hold up
+hold up
 
 ### **FAQ**
 
