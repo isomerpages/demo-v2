@@ -1,6 +1,6 @@
 ---
 title: '"Advertisement Template"'
-date: '2019-11-26'
+date: '2019-11-25'
 permalink: /resources/forms-and-template/test/
 ---
 
