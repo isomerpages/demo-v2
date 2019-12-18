@@ -22,16 +22,16 @@ sections:
         - title: Highlight C
           description: Ha you thought what
           url: google.com
+  - resources:
+      title: New Resources
+      subtitle: Abc
+      button: '123'
   - infobar:
       title: Title
       subtitle: new subtitle
       description: stuff
       button: ago
       url: /test/
-  - resources:
-      title: Resources
-      subtitle: My resource
-      button: test
   - infopic:
       title: Testingaaa
       subtitle: Testfff
