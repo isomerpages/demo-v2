@@ -15,7 +15,7 @@ colors:
       color: '#103d41'
     - title: media-color-five
       color: '#00838f'
-url: ''
+url: 'https://www.blah.gov.sg'
 collections:
   left-nav-one:
     output: true
