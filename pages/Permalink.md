@@ -1,4 +1,5 @@
 ---
 title: Permalink
-permalink: /permalink/
+permalink: /permalink-test/
 ---
+
