@@ -1,0 +1,4 @@
+---
+title: Permalink
+permalink: /permalink/
+---
