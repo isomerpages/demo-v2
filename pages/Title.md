@@ -1,6 +1,7 @@
 ---
 title: Title
-permalink: /permalink/
+permalink: /permalink1/
 ---
+
 
 
