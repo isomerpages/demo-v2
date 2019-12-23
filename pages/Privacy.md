@@ -1,0 +1,4 @@
+---
+title: Privacy
+permalink: /privacy/
+---
