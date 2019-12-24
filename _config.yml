@@ -1,9 +1,9 @@
-title: Title A
+title: Test new title
 favicon: /images/favicon-isomer.ico
 resources_name: test-resource-room
 colors:
   primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  secondary-color: '#38f731'
   media-colors:
     - title: media-color-one
       color: '#e98691'
