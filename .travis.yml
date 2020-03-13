@@ -3,6 +3,7 @@ git:
   depth: 3
 before_install:
   - gem install bundler
+  - npm install @isomerpages/isomerpages-travisci-scripts
 matrix:
   include:
     - language: ruby
