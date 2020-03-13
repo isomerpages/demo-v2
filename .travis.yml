@@ -1,14 +1,14 @@
 #.travis.yml
 git:
   depth: 3
-
+before_install:
+  - gem install bundler
 matrix:
   include:
     - language: ruby
       dist: trusty
       script:
         - bundle exec jekyll build
-
     - language: node_js
       dist: trusty
       node_js: "node"
