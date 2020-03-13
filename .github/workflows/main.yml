@@ -19,3 +19,8 @@ jobs:
       uses: jakejarvis/lighthouse-action@master
       with:
         url: 'https://demo-v2-prod.netlify.com/'
+    - name: Save results
+      uses: actions/upload-artifact@v1
+      with:
+        name: lighthouse-results
+        path: '.lighthouseci' # This will save the Lighthouse results as .json files
