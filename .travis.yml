@@ -13,7 +13,7 @@ matrix:
     - language: node_js
       dist: trusty
       node_js: "node"
-      script: node -e 'require("@isomerpages/isomerpages-travisci-scripts").runLightHouse(false)'
+      script: node travis-script.js
       cache: npm
       addons:
         chrome: stable
