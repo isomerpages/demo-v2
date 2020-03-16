@@ -1,15 +1,15 @@
 #.travis.yml
 git:
   depth: 3
-
+before_install:
+  - gem install bundler
+  - npm install https://github.com/isomerpages/travisci-scripts.git#next-gen
 matrix:
   include:
     - language: ruby
       dist: trusty
       script:
         - bundle exec jekyll build
-      cache: bundler
-
     - language: node_js
       dist: trusty
       node_js: "node"
