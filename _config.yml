@@ -25,6 +25,7 @@ collections:
     permalink: '/:collection/:path/:title'
     output: true
 google_analytics: null
+facebook-pixel: 262973061352325
 permalink: none
 baseurl: ''
 exclude:
