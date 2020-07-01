@@ -2,6 +2,8 @@
 title: 'New Dec '
 permalink: /new-24-dec/
 ---
+![](/images%2FGarden%20By%20the%20Bay.JPG)
+
 **Title**
 
 ## Heading
