@@ -1,5 +1,5 @@
 ---
 title: Sub Page Ddd
-permalink: /left-nav-two/sub-page-D/
+redirect_to: https://google.com
 ---
 helo helo
