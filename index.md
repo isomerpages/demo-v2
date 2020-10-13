@@ -56,11 +56,5 @@ sections:
       url: /test/
       imageUrl: /images/hero-banner.png
       imageAlt: test
-  - infobar:
-      title: ''
-      subtitle: ''
-      description: ''
-      button: ''
-      url: ''
 subtitle: testing
 ---
