@@ -50,7 +50,7 @@ sections:
       imageAlt: hm
   - infopic:
       title: test
-      subtitle: ''
+      subtitle: hihaha
       description: ''
       button: test
       url: /test/
