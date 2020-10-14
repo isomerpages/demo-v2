@@ -1,8 +1,8 @@
-title: Demo Site 2
+title: Demo Site V2
 favicon: /images/favicon-isomer.ico
 resources_name: test-resource-room
 colors:
-  primary-color: '#e72a70'
+  primary-color: '#ac607c'
   secondary-color: '#38f731'
   media-colors:
     - title: media-color-one
