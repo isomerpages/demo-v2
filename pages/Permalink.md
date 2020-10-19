@@ -1,5 +1,6 @@
 ---
 title: Permalink
-permalink: /permalink/
+permalink: /permalinking/
 ---
+
 
