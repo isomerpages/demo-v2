@@ -10,18 +10,14 @@ sections:
       title: New Title 2
       subtitle: This is my new hero subtitle
       background: /images/hero-banner.png
-      button: Find out more
-      url: /faq/
-      key_highlights:
-        - title: Highlight ABC
-          description: Important highlight A is important
-          url: 'https://google.com'
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: 'https://gmail.com'
-        - title: Highlight C
-          description: Ha you thought what
-          url: google.com
+      button: ''
+      url: ''
+      key_highlights: ''
+      dropdown:
+        title: google
+        options:
+          - title: test
+            url: google.com
   - resources:
       title: New Resources
       subtitle: Abc
