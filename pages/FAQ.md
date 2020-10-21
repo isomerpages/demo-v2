@@ -1,7 +1,8 @@
 ---
 title: FAQ
-permalink: /faq/
+permalink: /faq-us/
 ---
+
 hold upf
 
 ### **FAQ**
