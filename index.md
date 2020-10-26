@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Ahihg
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -35,11 +35,12 @@ sections:
   - infopic:
       title: Much better
       subtitle: Stuff
-      description: testing
-      button: blah
-      url: /test/
+      description: nn
+      button: nn
       imageUrl: /images/hero-banner.png
       imageAlt: hm
+      image: /images/456.png
+      alt: fasf
   - infopic:
       title: test
       subtitle: hihaha
