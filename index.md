@@ -52,6 +52,14 @@ sections:
       imageAlt: hm
       image: /images/456.png
       alt: fasf
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      url: No URL specified
+      image: No image selected
+      alt: Image alt text
 subtitle: testing
 notification: testing
 ---
