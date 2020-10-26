@@ -42,6 +42,7 @@ sections:
       url: /test/
       imageUrl: /images/test-screenshot.png
       imageAlt: test
+      image: /images/GA.png
   - infopic:
       title: Much better
       subtitle: Stuff
