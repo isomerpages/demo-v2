@@ -4,15 +4,12 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use
+notification: ''
 sections:
   - hero:
       title: New Title 2
       subtitle: This is my new hero subtitle
       background: /images/hero-banner.png
-      button: ''
-      url: ''
-      key_highlights: ''
       dropdown:
         title: google
         options:
@@ -47,7 +44,6 @@ sections:
   - infopic:
       title: test
       subtitle: hihaha
-      description: ''
       button: test
       url: /test/
       imageUrl: /images/hero-banner.png
