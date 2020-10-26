@@ -9,11 +9,21 @@ sections:
       title: New Title 2
       subtitle: This is my new hero subtitle
       background: /images/hero-banner.png
-      dropdown:
-        title: google
-        options:
-          - title: test
-            url: google.com
+      key_highlights:
+        - title: Key Highlight Title 123
+          description: Key Highlight description 123
+          url: /faq/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: /faq/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: /faq/
+        - title: Key Highlight Title 123
+          description: Key Highlight description 1234
+          url: /faq/
+      button: testing
+      url: abc.com
   - resources:
       title: New Resources
       subtitle: Abc
