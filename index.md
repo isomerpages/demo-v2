@@ -48,4 +48,5 @@ sections:
       imageUrl: /images/hero-banner.png
       imageAlt: test
 subtitle: testing
+notification: testing
 ---
