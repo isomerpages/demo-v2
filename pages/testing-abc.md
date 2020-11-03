@@ -1,4 +1,4 @@
 ---
 title: testing abc
-permalink: //
+permalink: /testing-abc
 ---
