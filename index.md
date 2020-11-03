@@ -50,7 +50,7 @@ sections:
       button: nn
       imageUrl: /images/hero-banner.png
       imageAlt: hm
-      image: /images/456.png
+      image: /images/integrity.png
       alt: fasf
   - infopic:
       title: Infopic Title
