@@ -1,5 +1,6 @@
 ---
 title: Sub Page Ddd
-redirect_to: https://google.com
+permalink: /left-nav-two/test
 ---
+
 helo helo
