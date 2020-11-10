@@ -1,0 +1,22 @@
+pages:
+  - type: page
+    title: Titleing
+    fileName: '-Titleing.md'
+  - type: page
+    title: bah gawd
+    fileName: '-bah-gawd.md'
+  - type: page
+    title: bop
+    fileName: 0-test.md
+  - type: page
+    title: Sub Page D
+    fileName: 1-Sub-Page-D.md
+  - type: third-nav
+    title: abc
+    contents:
+      - type: third-nav-page
+        title: Sub Page E
+        fileName: 2a-abc-123.md
+      - type: third-nav-page
+        title: Sub Page F
+        fileName: 2b-def-456.md
