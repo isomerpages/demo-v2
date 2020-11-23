@@ -1,6 +1,0 @@
----
-title: Sub Page D
-permalink: /left-nav-two/sub-page-D/
-third_nav_title: def
----
-ff
