@@ -24,6 +24,8 @@ collections:
   left-nav-three:
     permalink: '/:collection/:path/:title'
     output: true
+  left-nav-hundred:
+    output: true
 google_analytics: null
 facebook-pixel: 262973061352325
 permalink: none
