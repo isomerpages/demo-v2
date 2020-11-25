@@ -9,9 +9,12 @@ sections:
       title: New Title 2
       subtitle: This is my new hero subtitle
       background: /images/hero-banner.png
-      dropdown:
-        title: Hero Dropdown r
-        options: []
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ''
+      button: rwar
+      url: foo.com
   - resources:
       title: New Resources
       subtitle: Abc
