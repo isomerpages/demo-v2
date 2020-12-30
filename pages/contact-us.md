@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: the Prize Secretariat
 locations:
-  - title: Prize Secretariat
+  - title: Prize Secretariat asoidjaosidjasoijdoiasjdijsaodjaosjdoiajsdiojasoidjasoijdsao
     address:
         - 45 Maxwell Road
         - The URA Centre, Tower
@@ -73,16 +73,6 @@ contacts:
     - phone: +65 6321 6532 
     - email: leekuanyew_worldcityprize@ura.gov.sg
     - other: 
-    - phone: +65 1321 6532 
-    - phone: +65 2321 6532 
-    - other: Should not be deleted
-    - other: Should be deleted
-    - email: randomdelete@mail.com
-  - title: Join our mailing list 
-    content:
-    - phone: 
-    - email: 
-    - other: <a href="https://go.gov.sg/newsletter"><u>go.gov.sg/newsletter</u></a>
     - phone: +65 1321 6532 
     - phone: +65 2321 6532 
     - other: Should not be deleted
