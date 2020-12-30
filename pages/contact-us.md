@@ -73,7 +73,7 @@ contacts:
     - phone: +65 6321 6532 
     - email: leekuanyew_worldcityprize@ura.gov.sg
     - other: 
-    - phone: +65 1321 6532 
+    - phone: +65 6321 6532 
     - phone: +65 2321 6532 
     - other: Should not be deleted
     - other: Should be deleted
