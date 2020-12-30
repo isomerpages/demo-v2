@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: the Prize Secretariat
 locations:
-  - title: Prize Secretariat asoidjaosidjasoijdoiasjdijsaodjaosjdoiajsdiojasoidjasoijdsao
+  - title: Prize Secretariat
     address:
         - 45 Maxwell Road
         - The URA Centre, Tower
