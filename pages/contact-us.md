@@ -83,7 +83,7 @@ contacts:
     - phone: 
     - email: 
     - other: <a href="https://go.gov.sg/newsletter"><u>go.gov.sg/newsletter</u></a>
-    - phone: +65 1321 6532 
+    - phone: +65 6321 6532 
     - phone: +65 2321 6532 
     - other: Should not be deleted
     - other: Should be deleted
