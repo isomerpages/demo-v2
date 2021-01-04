@@ -2,16 +2,8 @@
 title: New Page abc d
 permalink: /page-abc-d/
 ---
-
-
-
-
-
-
-
 #### **Lorem Ipsum is simply dummy text of the printing and typesetting industry.**
-![](/images%2FGarden%20By%20the%20Bay.JPG)
-
+![](/images/Hero_1920x720.png)
 abce
 
 [hello](https://)
