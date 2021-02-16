@@ -52,5 +52,5 @@ sections:
       image: No image selected
       alt: Image alt text
 subtitle: testing
-notification: testing
+notification: testings
 ---
